@@ -1,3 +1,4 @@
+//by using for loop
 import java.util.Scanner;
 public class Temp5
 {
