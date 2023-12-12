@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24042e29-d1ca-4097-8bd7-31133a0eb487" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Temp5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +45,9 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Mysimplecode/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Temp4">
+  <component name="RunManager" selected="Application.Temp6">
     <configuration name="AddTwoNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoNo" />
-      <module name="Mysimplecode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tem1" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temp6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp6" />
+      <module name="Mysimplecode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temp6" />
         <item itemvalue="Application.Temp4" />
         <item itemvalue="Application.Temp3" />
         <item itemvalue="Application.Temp2" />
         <item itemvalue="Application.AddTwoNo" />
-        <item itemvalue="Application.Tem1" />
       </list>
     </recent_temporary>
   </component>
