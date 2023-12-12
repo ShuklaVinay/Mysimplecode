@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24042e29-d1ca-4097-8bd7-31133a0eb487" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddTwoNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Mysimplecode/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AddTwoNo">
+  <component name="RunManager" selected="Application.Temp2">
     <configuration name="AddTwoNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoNo" />
       <module name="Mysimplecode" />
@@ -74,8 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp2" />
+      <module name="Mysimplecode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temp2" />
         <item itemvalue="Application.AddTwoNo" />
         <item itemvalue="Application.Tem1" />
         <item itemvalue="Application.FabonacciClass" />
