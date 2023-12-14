@@ -7,6 +7,7 @@ public class FabonnaciExm
            {
                return;
            }
+
        int c=a+b;
        System.out.println(c);
        fibNum(b,c,n-1);
