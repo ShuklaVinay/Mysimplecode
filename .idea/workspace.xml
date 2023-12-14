@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24042e29-d1ca-4097-8bd7-31133a0eb487" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StaticImportExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +45,16 @@
     "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Mysimplecode/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StaticImportExam">
-    <configuration name="StaticImportExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticImportExam" />
+  <component name="RunManager" selected="Application.PowerClass">
+    <configuration name="PowerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerClass" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temp3" />
+    <configuration name="StaticImportExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticImportExam" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerClass" />
         <item itemvalue="Application.StaticImportExam" />
         <item itemvalue="Application.Temp7" />
         <item itemvalue="Application.Temp6" />
         <item itemvalue="Application.Temp4" />
-        <item itemvalue="Application.Temp3" />
       </list>
     </recent_temporary>
   </component>
