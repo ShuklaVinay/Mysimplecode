@@ -19,8 +19,9 @@ public class FabonnaciExm
         Scanner sc=new Scanner(System.in);
         System.out.println("please enter no of term :");
         n=sc.nextInt();
+           System.out.println("entered value is "+" "+n);
            System.out.println(a);
            System.out.println(b);
-        fibNum(a,b,n-2);
+           fibNum(a,b,n-2);
     }
 }
