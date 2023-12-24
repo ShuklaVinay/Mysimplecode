@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24042e29-d1ca-4097-8bd7-31133a0eb487" name="Changes" comment="" />
+    <list default="true" id="24042e29-d1ca-4097-8bd7-31133a0eb487" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SwitchStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,21 +32,23 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2ZMT28gP41lLn8NTBvWsPSM7YJG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/vinay/IdeaProjects/Mysimplecode/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/vinay/IdeaProjects/Mysimplecode/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FabonnaciExm">
+}</component>
+  <component name="RunManager" selected="Application.SwitchStat1">
     <configuration name="FabonnaciExm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FabonnaciExm" />
       <module name="Mysimplecode" />
@@ -57,22 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PowerClass" />
+    <configuration name="FindLargV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLargV" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticImportExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticImportExam" />
+    <configuration name="SwitchStat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStat" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temp7" />
+    <configuration name="SwitchStat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStat1" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchStat1" />
+        <item itemvalue="Application.SwitchStat" />
+        <item itemvalue="Application.FindLargV" />
         <item itemvalue="Application.FabonnaciExm" />
         <item itemvalue="Application.FibboForL" />
-        <item itemvalue="Application.PowerClass" />
-        <item itemvalue="Application.StaticImportExam" />
-        <item itemvalue="Application.Temp7" />
       </list>
     </recent_temporary>
   </component>
