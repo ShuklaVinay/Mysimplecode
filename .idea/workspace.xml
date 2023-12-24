@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24042e29-d1ca-4097-8bd7-31133a0eb487" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/vinay/IdeaProjects/Mysimplecode/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNo">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="EvenN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EvenN" />
       <module name="Mysimplecode" />
@@ -55,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLargV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindLargV" />
+    <configuration name="PrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNo" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNo" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student" />
       <module name="Mysimplecode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.PrimeNo" />
         <item itemvalue="Application.EvenN" />
         <item itemvalue="Application.SwitchStat1" />
         <item itemvalue="Application.SwitchStat" />
-        <item itemvalue="Application.FindLargV" />
       </list>
     </recent_temporary>
   </component>
